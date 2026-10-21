@@ -59,7 +59,6 @@ A bad experience with this project would be characterized by us not achieving th
 | Saturday | NA | NA | Any time |
 | Sunday | NA | NA | Any time |
 
-> **Note:** Times are as given in the original notes. Cells marked "NA" for days not listed in the original are assumed unavailable. Please confirm.
 
 ### Disagreements
 The person who owns the task has final authority if we cannot come to an agreement. In all other cases, a discussion and group vote should take place. If a majority cannot be reached, the task owner again has final authority.
