@@ -2,8 +2,6 @@
 
 ## 1. Goals
 
-*Agreed upon as a team before assigning any work.*
-
 ### Good Result
 We are looking to have a complete and polished final result. The end product should be something we would be proud to present after class. Of course, it is also important to all of us that we receive an A on the project and that everyone collaborates properly and respectfully.
 
